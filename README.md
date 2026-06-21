@@ -132,7 +132,7 @@ wine-analysis/
 - **Samples:** 130,000+ wine reviews globally; 1,039 Vinho Verde wines
 - **Variables:** Country, province, region, points (rating), variety, winery, title, description
 - **License:** Public/Academic Use
-- **Download:** Kaggle Wine Reviews Dataset
+- **Download:** Kaggle Wine Reviews Dataset https://www.kaggle.com/datasets/roaldschuring/wine-reviews
 
 ## Analysis Methods
 
