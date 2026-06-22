@@ -172,12 +172,16 @@ wine-analysis/
 - **Finding:** Alcohol shows strongest positive correlation (r=0.44); Volatile acidity shows strongest negative (r=-0.39)
 
 ### Phase 4: Predictive Modeling
+
 - **Logistic Regression:** Binary classification of high-quality wines (quality ≥7)
-  - Red wine accuracy: ~82%
-  - White wine accuracy: ~73%
+  - Red wine accuracy: ~89%
+  - White wine accuracy: ~81%
+
 - **Random Forest Validation:** Nonlinear relationship validation
-  - Confirms alcohol, sulphates as top predictors for red wines
-  - Confirms residual sugar importance for white wines
+  - Red wine accuracy: ~94%
+  - White wine accuracy: ~89%
+    
+- **Confirmed alcohol, volatile acidity, density, sulphates, and residual sugar as important quality drivers**
 
 ### Phase 5: Regional Review Analysis (Optional)
 - Analysis of 1,039 Vinho Verde wines from Wine Enthusiast reviews
