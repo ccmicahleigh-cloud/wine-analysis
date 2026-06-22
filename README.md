@@ -8,6 +8,8 @@ This project examines wine quality through a comprehensive data analytics framew
 **Date:** June 7, 2026  
 **Dataset:** UCI Wine Quality + Wine Enthusiast Reviews
 
+![Wine Quality Carousel](wine-story-board.png)
+
 ## Executive Summary
 
 Wine quality is influenced by a complex interaction of physicochemical characteristics and regional factors. This analysis examines 6,497 red and white wine samples containing laboratory-measured attributes and corresponding quality ratings.
