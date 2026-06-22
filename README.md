@@ -275,21 +275,33 @@ wine-analysis/
 ### Logistic Regression Results
 
 **Red Wine Model:**
-- Accuracy: ~82%
-- Precision: 0.82
-- Recall: 0.38
-- Top predictors: Alcohol, Sulphates, Fixed Acidity
+
+* Accuracy: ~89%
+* Precision: 0.69
+* Recall: 0.37
+* Top predictors: Alcohol, Sulfates, Fixed Acidity
 
 **White Wine Model:**
-- Accuracy: ~73%
-- Precision: 0.68
-- Recall: 0.35
-- Top predictors: Residual Sugar, pH, Density
+
+* Accuracy: ~81%
+* Precision: 0.61
+* Recall: 0.29
+* Top predictors: Residual Sugar, pH, Density
 
 ### Random Forest Results
-- Confirms alcohol as top predictor for red wines
-- Feature importance rankings align with logistic regression
-- Validates presence of meaningful patterns in the data
+
+**Red Wine Model:**
+
+* Accuracy: ~94%
+* ROC-AUC: 0.95
+
+**White Wine Model:**
+
+* Accuracy: ~89%
+* ROC-AUC: 0.93
+
+Random Forest independently validated alcohol, volatile acidity, density, sulfates, and residual sugar as important quality drivers while improving predictive performance over logistic regression.
+
 
 ## Limitations
 
