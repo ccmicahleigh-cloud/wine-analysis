@@ -2,7 +2,7 @@
 
 # Wine Quality Analysis
 
-![Wine Quality Carousel](images/wine-quality-carousel.png)
+![Wine Quality Carousel](ChatGPT Image Jun 21, 2026, 08_00_59 PM.png)
 
 ## Project Overview
 
