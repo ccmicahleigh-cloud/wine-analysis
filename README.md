@@ -1,4 +1,10 @@
 # Wine Quality Analysis: A Multi-Method Analytical Framework
+## Repository Contents
+
+- Jupyter Notebook
+- Executive PDF Report
+- Publication-Ready Storyboard
+- Supporting Visualizations
 
 ## Project Overview
 
@@ -9,6 +15,14 @@ This project examines wine quality through a comprehensive data analytics framew
 **Dataset:** UCI Wine Quality + Wine Enthusiast Reviews
 
 ![Wine Quality Carousel](wine-story-board.png)
+
+## Project Highlights
+
+- Analyzed 6,497 wine observations across red and white varieties
+- Built logistic regression and random forest models
+- Identified alcohol as the strongest quality predictor
+- Evaluated regional review patterns across 9 Vinho Verde subregions
+- Developed executive-level data storytelling deliverables
 
 ## Executive Summary
 
