@@ -51,6 +51,72 @@ Wine quality is influenced by a complex interaction of physicochemical character
 4. **Volatile Acidity** is negatively correlated with quality in both wine types
 5. **Multiple Factors Interact** - Wine quality cannot be explained by a single characteristic
 
+---
+
+## Key Visualizations
+
+### Quality Distribution by Wine Type
+
+![Quality Distribution](Distribution%20Quality%20RvW.png)
+
+Most wines clustered between quality ratings of 5–7, highlighting that meaningful quality variation exists but is concentrated within a relatively narrow range.
+
+### Exploratory Relationship Analysis
+
+![Exploratory Analysis](Exploratory%20Analysis.png)
+
+Exploratory analysis identified several measurable physicochemical characteristics associated with wine quality and provided early evidence that alcohol content may play a significant role.
+
+### Correlation Analysis
+
+![Correlation Analysis](Correlation%20Analysis.png)
+
+Alcohol demonstrated the strongest positive correlation with quality, while volatile acidity exhibited one of the strongest negative relationships.
+
+### Logistic Regression Models
+
+#### Red Wine Model
+
+![Logistic Regression Red](Logistics%20Regression%20Red.png)
+
+The red wine classification model achieved approximately 82% accuracy and highlighted alcohol, sulphates, and fixed acidity as important predictors.
+
+#### White Wine Model
+
+![Logistic Regression White](Logistics%20Regression%20White.png)
+
+The white wine model achieved approximately 73% accuracy and identified residual sugar, pH, and density as influential quality drivers.
+
+### Random Forest Validation
+
+#### Red Wine Feature Importance
+
+![Random Forest Red](Random%20Forest%20Red.png)
+
+#### White Wine Feature Importance
+
+![Random Forest White](Random%20Forest%20White.png)
+
+Random Forest analysis independently confirmed many of the same quality drivers identified through correlation analysis and logistic regression.
+
+### Regional Quality Patterns
+
+![Region Review](Region%20Review.png)
+
+Regional review analysis revealed meaningful differences in average wine scores across Vinho Verde subregions.
+
+![Subregion Quality Profile](Subregion%20Quality%20Profile.png)
+
+![Subregion Quality Profile - Red vs White](Subregion%20Quality%20Profile%20-%20red%20v%20white.png)
+
+### Geographic Visualization
+
+![Interactive Map](Interactive%20Map.png)
+
+Geographic analysis demonstrated that some subregions consistently outperformed regional averages, raising important questions regarding terroir and environmental influences on wine chemistry.
+
+---
+
 ## Quick Start
 
 ### Installation
