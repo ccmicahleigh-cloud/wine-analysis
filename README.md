@@ -1,4 +1,5 @@
 # Wine Quality Analysis: A Multi-Method Analytical Framework
+End-to-end data analytics project combining EDA, predictive modeling, geographic analysis, and executive storytelling.
 ## Repository Contents
 
 - Jupyter Notebook
