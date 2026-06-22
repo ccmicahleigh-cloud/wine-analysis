@@ -1,29 +1,23 @@
 # Wine Quality Analysis: A Multi-Method Analytical Framework
+
 End-to-end data analytics project combining EDA, predictive modeling, geographic analysis, and executive storytelling.
-## Repository Contents
-
-- Jupyter Notebook
-- Executive PDF Report
-- Publication-Ready Storyboard
-- Supporting Visualizations
-
-## Project Overview
-
-This project examines wine quality through a comprehensive data analytics framework, combining **physicochemical analysis** with **regional review patterns** to understand the drivers of wine quality in Portuguese Vinho Verde wines.
-
-**Author:** Micah Collins  
-**Date:** June 7, 2026  
-**Dataset:** UCI Wine Quality + Wine Enthusiast Reviews
 
 ![Wine Quality Carousel](wine-story-board.png)
 
 ## Project Highlights
 
-- Analyzed 6,497 wine observations across red and white varieties
-- Built logistic regression and random forest models
+- Analyzed 6,497 wine observations
+- Built Logistic Regression and Random Forest models
 - Identified alcohol as the strongest quality predictor
-- Evaluated regional review patterns across 9 Vinho Verde subregions
-- Developed executive-level data storytelling deliverables
+- Evaluated regional quality patterns across Vinho Verde subregions
+- Developed executive-ready reporting and storytelling assets
+
+## Project Overview
+This project examines wine quality through a comprehensive data analytics framework, combining **physicochemical analysis** with **regional review patterns** to understand the drivers of wine quality in Portuguese Vinho Verde wines.
+
+**Author:** Micah Collins  
+**Date:** June 7, 2026  
+**Dataset:** UCI Wine Quality + Wine Enthusiast Reviews
 
 ## Executive Summary
 
