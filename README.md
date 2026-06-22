@@ -1,5 +1,9 @@
 # Wine Quality Analysis: A Multi-Method Analytical Framework
 
+# Wine Quality Analysis
+
+![Wine Quality Carousel](images/wine-quality-carousel.png)
+
 ## Project Overview
 
 This project examines wine quality through a comprehensive data analytics framework, combining **physicochemical analysis** with **regional review patterns** to understand the drivers of wine quality in Portuguese Vinho Verde wines.
