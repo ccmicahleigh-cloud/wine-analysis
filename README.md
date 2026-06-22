@@ -78,7 +78,7 @@ Alcohol demonstrated the strongest positive correlation with quality, while vola
 
 ![Logistic Regression Red](Logistics%20Regression%20Red.png)
 
-The red wine classification model achieved approximately 82% accuracy and highlighted alcohol, sulphates, and fixed acidity as important predictors.
+The red wine classification model achieved approximately 82% accuracy and highlighted alcohol, sulfates, and fixed acidity as important predictors.
 
 #### White Wine Model
 
@@ -320,11 +320,9 @@ Random Forest independently validated alcohol, volatile acidity, density, sulfat
 5. **Deep Learning:** Apply neural networks for nonlinear pattern discovery
 6. **NLP Analysis:** Extract quality drivers from review text descriptions
 
-## Contributing
+## Portfolio Purpose
 
-This is a portfolio/research project. For inquiries or collaboration:
-- Create an issue for discussion
-- Submit a pull request with improvements
+This project was developed to demonstrate an end-to-end analytics workflow including data preparation, exploratory analysis, predictive modeling, geographic visualization, and executive communication of findings.
 
 ## License
 
