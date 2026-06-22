@@ -23,7 +23,6 @@ This project examines wine quality through a comprehensive data analytics framew
 
 - [Executive Storyboard](wine-story-board.png)
 - [Jupyter Notebook Analysis](Wine%20Analysis%20-%20Final%20Project%20(6).ipynb)
-- [Publication-Ready PDF Report](Wine_Quality_Drivers_Publication_Ready.pdf)
 - Supporting Visualizations
 
 ## Skills Demonstrated
